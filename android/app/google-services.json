@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012629664469",
+    "project_id": "miraalink-67207",
+    "storage_bucket": "miraalink-67207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012629664469:android:68a90bda0e577973be685c",
+        "android_client_info": {
+          "package_name": "com.example.grocery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012629664469-6s0n0o6rfk8q04s7km3qc6u1766ouog2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf_eQHs89WxlVdERPZs4wHtM9N_6AP02M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012629664469-6s0n0o6rfk8q04s7km3qc6u1766ouog2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
